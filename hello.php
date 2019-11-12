@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello, World! Page</title>
+<title>Hello2, World! Page</title>
 </head>
 <body>
 <?php
